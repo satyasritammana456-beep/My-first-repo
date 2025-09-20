@@ -1,2 +1,3 @@
-# My-first-repo
-Learning GitHub with devops.
+a=10
+b=20
+print (a+b)
